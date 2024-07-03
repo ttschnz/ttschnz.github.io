@@ -1,0 +1,3 @@
+[submodule "sudokuh"]
+	path = sudokuh
+	url = https://github.com/ttschnz/sudokuh
